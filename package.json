@@ -3,6 +3,8 @@
   "displayName": "bencode-vscode",
   "description": "",
   "version": "0.0.1",
+  "repository": "https://github.com/parkma99/bencode-vscode",
+  "publisher": "parkma99-dsboiasdsdio",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -24,6 +26,7 @@
       }
     ]
   },
+
   "scripts": {
     "vscode:prepublish": "npm run package",
     "compile": "webpack",
